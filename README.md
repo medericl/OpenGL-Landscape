@@ -36,7 +36,3 @@ Run:
 ```bash
 ./OpenGL-Landscape
 ```
-
-## Authors
-
-Developed as a computer graphics project at EPITA.
